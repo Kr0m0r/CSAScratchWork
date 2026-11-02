@@ -35,7 +35,7 @@ public class ProjectEuler {
                }
             }
             if ((a + b + c) == 1000) {
-               product = a * b *  (int) c;
+               product = a * b * (int) c;
                break;
             }
             a++;
